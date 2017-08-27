@@ -1,0 +1,2 @@
+# Lexan
+GPG Encryption Manager
